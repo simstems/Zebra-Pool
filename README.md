@@ -7,9 +7,9 @@ zgui used libzfs directly and not ZFS command line tools.
 
 ## Screenshot
 
-<img src="screenshot/dataset.png" width="400">
-<img src="screenshot/pool.png" width="400">
-<img src="screenshot/storage.png" width="400">
+<img src="screenshots/dataset.png" width="400">
+<img src="screenshots/pool.png" width="400">
+<img src="screenshots/storage.png" width="400">
 
 ## Installation
 
